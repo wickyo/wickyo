@@ -1,1 +1,1 @@
-hexo g && hexo d
+git add . && git commit -m '更新' && git push && hexo g && hexo d
