@@ -24,8 +24,7 @@
     <content><![CDATA[<p>这是一个测试文档<br>diary</p>
 ]]></content>
       <categories>
-        <category>技术</category>
-        <category>python</category>
+        <category>技术 - python</category>
       </categories>
       <tags>
         <tag>技术</tag>

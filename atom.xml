@@ -6,7 +6,7 @@
   <link href="https://wickyo.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://wickyo.gitee.io/"/>
-  <updated>2021-06-07T04:14:55.475Z</updated>
+  <updated>2021-06-07T04:15:39.014Z</updated>
   <id>https://wickyo.gitee.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wickyo.gitee.io/2021/06/07/test/"/>
     <id>https://wickyo.gitee.io/2021/06/07/test/</id>
     <published>2021-06-07T02:26:00.000Z</published>
-    <updated>2021-06-07T04:14:55.475Z</updated>
+    <updated>2021-06-07T04:15:39.014Z</updated>
     
     <content type="html"><![CDATA[<p>这是一个测试文档<br>diary</p>]]></content>
     
@@ -34,9 +34,7 @@
     
     
     
-    <category term="技术" scheme="https://wickyo.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="python" scheme="https://wickyo.gitee.io/categories/%E6%8A%80%E6%9C%AF/python/"/>
+    <category term="技术 - python" scheme="https://wickyo.gitee.io/categories/%E6%8A%80%E6%9C%AF-python/"/>
     
     
     <category term="技术" scheme="https://wickyo.gitee.io/tags/%E6%8A%80%E6%9C%AF/"/>
