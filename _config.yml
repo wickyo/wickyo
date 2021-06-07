@@ -120,3 +120,9 @@ admin:
   username: wickyo
   password_hash: $2a$10$91dlxXKgl7p6z2GEETMSKe5.3TDnNcWO.AKlZA0lJh2UbAk17MpCW
   secret: my super secret phrase
+  deployCommand: ./admin_script/hexo-d.sh
+
+
+# hexo-admin默认参数
+metadata:
+#  author: wickyo
